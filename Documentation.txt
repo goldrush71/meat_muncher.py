@@ -1,0 +1,32 @@
+IF THIS INFORMATION IS INACCURATE OR OUTDATED
+SEND ME A MESSAGE AT: goldrush71#7888
+
+This is a list of all commands the bot has. It's 
+manually maintained so expect it to be outdated 
+occasionally.
+
+   ---   Commands   ---
+
+help: sends this document.
+
+rd{x}: replace {x} with a number to generate a 
+random number between 1 and {x}.
+
+show me the meat: sends a short string of text
+
+biden: sends an image of 46 from a list
+
+qb. :
+	add: reply to a message to add it to
+	quotes.csv
+	
+	quotebook: sends quotes.csv
+
+	random: sends a random quote from 
+	quotes.csv
+
+mc. :
+	mc.balance:	sends a message which displays your 
+	balance
+	mc.bet {x}: the amount you bet from your wallet
+	will be multiplied  
